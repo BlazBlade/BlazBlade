@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BlazBlade or you can call me CloudH2O
-- 👀 I’m interested in Java and Cpp and Python 
-- 🌱 I’m currently learning Computer Science
+- 👀 I’m interested in C and Java and Python 
+- 🌱 I’m currently learning Computer Science and EE
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me <font color =#0000ff>cloudh2o0609@gmail.com</font>
 
